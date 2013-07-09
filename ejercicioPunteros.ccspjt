@@ -1,0 +1,22 @@
+[PROJECT]
+Target=ejercicioPunteros.hex
+Processor_Text=PIC16F887
+CCSVerions=5.005d
+Compiler=PCM
+CCSVersion=5.005d
+[Target Data]
+FileList=ejercicioPunteros.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\JavierC\ejercicioPunteros\ejercicioPunteros]
+Type=4
+[mru-list]
+1=ejercicioPunteros.c
+[Opened Files]
+1=ejercicioPunteros.c
+2=
+[ejercicioPunteros.c]
+Type=4
+[Units]
+Count=1
+1=ejercicioPunteros (main)

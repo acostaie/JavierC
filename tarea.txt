@@ -1,0 +1,5 @@
+tarea, ejercicios capitulo 3 y 4
+leer hoja de datos del timer0
+tarea
+traer un programa que togleee un led cada 100 ms
+utilizando la interrupcion del timer0.

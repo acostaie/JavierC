@@ -1,0 +1,19 @@
+[PROJECT]
+Target=C:\JavierC\interrtimer0\interrtimer0.hex
+Processor_Text=PIC16F887
+CCSVerions=5.005d
+Compiler=PCM
+[Target Data]
+FileList=interrtimer0.c
+[Directories]
+Include=
+[C:\JavierC\interrtimer0\interrtimer0]
+Type=4
+[mru-list]
+1=interrtimer0.c
+[Units]
+Count=1
+1=interrtimer0 (main)
+[Opened Files]
+1=interrtimer0.c
+2=
