@@ -1,0 +1,22 @@
+[PROJECT]
+Target=12f510prueba.hex
+Processor_Text=PIC12F510
+CCSVerions=5.005d
+Compiler=PCB
+CCSVersion=5.005d
+[Target Data]
+FileList=12f510prueba.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\JavierC\12f510\12f510prueba]
+Type=4
+[mru-list]
+1=12f510prueba.c
+[Opened Files]
+1=12f510prueba.c
+2=
+[12f510prueba.c]
+Type=4
+[Units]
+Count=1
+1=12f510prueba (main)

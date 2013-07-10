@@ -1,0 +1,19 @@
+[PROJECT]
+Target=interrup3.hex
+Processor_Text=PIC16F887
+CCSVersion=5.005d
+Compiler=PCM
+[Target Data]
+FileList=interrup3.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[interrup3.c]
+Type=4
+[mru-list]
+1=interrup3.c
+[Opened Files]
+1=interrup3.c
+2=
+[Units]
+Count=1
+1=interrup3 (main)

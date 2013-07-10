@@ -1,0 +1,22 @@
+[PROJECT]
+Target=interrup2.hex
+Processor_Text=PIC16F887
+CCSVerions=5.005d
+Compiler=PCM
+CCSVersion=5.005d
+[Target Data]
+FileList=interrup2.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\JavierC\interrup2\interrup2]
+Type=4
+[mru-list]
+1=interrup2.c
+[Opened Files]
+1=interrup2.c
+2=
+[interrup2.c]
+Type=4
+[Units]
+Count=1
+1=interrup2 (main)
