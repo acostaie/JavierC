@@ -1,0 +1,19 @@
+Tarea 
+
+crear un nuevo archivo llamado utilerias.c el cual contenga las siguientes
+funciones:
+
+1.-una funcion que acepte una variable de 8 bits y que regrese el numero de bits encendidos
+2.-una funcion que acepte una variable de 8 bits y que regrese los bits apagados(0)
+3.-una funcion que cuente el numero de caracteres dentro de un arreglo de caracteres
+   terminado en nulo, la funcion aceptara un puntero como parametro,y  regresara una 	
+   variable entera con el numero de caracteres.
+4.-declarar una funcion que acepte dos punteros y determine si dos cadenas de caracteres
+   son iguales ("no en longitud sino en forma o tamaño) 1 si son iguales 0 si son diferentes
+5.-una funcion que acepte un arreglo de enteros de 8 bits,y acepte otro arreglo del mismo
+   tipo, la funcion debera ordenar de menor a mayor, el contenido del primer arreglo
+   debera colocar en el segundo arreglo los valores ya ordenados de menor a mayor, un
+   tercer parametro para saber la longitud del arreglo.
+6.-una ultima funcion que regrese la sumatoria de los elementos de un arreglo,la funcion
+   aceptara un arreglo de un parametro y un segundo parametro que le indique la longitud
+   del arreglo.

@@ -1,0 +1,4 @@
+>>> Warning 202 "manejoarchivos.c" Line 8(8,9): Variable never used:   x
+      Memory usage:   ROM=5%      RAM=8% - 10%
+      0 Errors,  1 Warnings.
+Build Successful.
