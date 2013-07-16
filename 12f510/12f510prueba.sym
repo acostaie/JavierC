@@ -1,0 +1,55 @@
+006     portB
+007.7   C1OUT
+00A     @SCRATCH
+00B     @SCRATCH
+00B     _RETURN_
+00C     @SCRATCH
+00D     @SCRATCH
+00E     strtok.save
+00F     @TRIS_B
+010     @delay_ms1.P1
+
+ROM Allocation:
+000003  @delay_ms1
+000015  MAIN
+000015  @cinit1
+000019  @cinit2
+
+Project Directory:
+    C:\JavierC\12f510\
+
+Project Files:
+    12f510prueba.c                                          [10-jul-13 12:40  CRC=D872A938]
+    ..\..\Program Files (x86)\PICC\Devices\12f510.h         [03-jun-13 09:31  CRC=E7F7D255]
+    ..\..\Program Files (x86)\PICC\Drivers\stdio.h          [31-jul-07 13:24  CRC=4E4534F4]
+    ..\..\Program Files (x86)\PICC\Drivers\string.h         [14-jul-11 10:13  CRC=23EDEC8F]
+    ..\..\Program Files (x86)\PICC\Drivers\stddef.h         [16-jul-10 09:27  CRC=897CEC6C]
+    ..\..\Program Files (x86)\PICC\Drivers\ctype.h          [03-ene-08 13:55  CRC=2D1F019F]
+
+Source signature=16588CBA
+
+Units:
+    12f510prueba (main)
+
+Compiler Settings:
+    Processor:      PIC12F510
+    Pointer Size:   5
+    ADC Range:      0-255
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Compiler operating in Evaluation Mode
+To obtain a fully enabled compiler visit www.ccsinfo.com/products
+
+Output Files:
+    XREF file:   12f510prueba.xsym
+    Errors:      12f510prueba.err
+    Ext Symbols: 12f510prueba.esym
+    INHX8:       12f510prueba.hex
+    Symbols:     12f510prueba.sym
+    List:        12f510prueba.lst
+    Debug/COFF:  12f510prueba.cof
+    Project:     12f510prueba.ccspjt
+    Call Tree:   12f510prueba.tre
+    Statistics:  12f510prueba.STA

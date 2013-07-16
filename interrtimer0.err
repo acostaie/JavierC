@@ -1,0 +1,8 @@
+*** Error 18 "interrtimer0.c" Line 2(10,20): File can not be opened
+    Not in "C:\Program Files\PICC\Devices\16f887.h"
+    Not in "C:\Program Files\PICC\Drivers\16f887.h"
+    Not in project "C:\Users\p3\Documents\GitHubJavier\JavierC\16f887.h"
+*** Error 128 "interrtimer0.c" Line 4(2,6): A #DEVICE required before this line
+*** Error 7 "interrtimer0.c" Line 5(0,1): Invalid Pre-Processor directive
+      3 Errors,  0 Warnings.
+Build Failed.

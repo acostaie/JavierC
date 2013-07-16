@@ -1,0 +1,24 @@
+1.-usando el potenciometro desplegar una barra de volumen en la primera fila del LCD
+con asteriscos, para representar la barra, donde un valor cero no representa ningun asterisco
+y un valor maximo(255) representa los 16 asteriscos, 128 representa 8 asteriscos.
+
+2.- con cada interruptor de entrada encender y apagar cada uno de los leds del puerto A.
+
+3.- hacer una calculadora que solo haga operaciones de suma en donde el primer operando 
+sea ingresado por el potenciometro y el segundo por los microswitch utilizar el lcd para 
+mostrar la operacion completa.
+
+4.- usando el potenciometro,ingresar el valor de un primer operando el cual haga una 
+operacion con una constante.El tipo de operacion lo va a determinar el valor de los
+primeros dos microswitch,las operaciones seran, 00=suma, 10=resta,01=multiplicacion
+11=division.Desplegar el resultado de la operacion completo en el LCD.
+
+5.-Desplegar el valor en binario que se este leyendo en el microswitch, en el primer 
+renglon del LCD, y en el segundo renglon el mismo valor en hexadecimal, en el mismo 
+segundo renglon escribir el mismo valor en decimal.
+
+
+Para mañana
+sabado
+
+

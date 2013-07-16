@@ -19,8 +19,9 @@ void main()
    set_timer0(127); // se precarga el timer para que cuente menos
    
    while(TRUE)
-   { 
-    
-   }
+    { 
+     delay_ms(200);
+     puertoA=puertoA^(1<<5);
+     }
 
 }
